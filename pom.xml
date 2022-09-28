@@ -95,6 +95,7 @@
 				</executions>
 			</plugin>
 		</plugins>
+		<finalName>feignClientSampleService</finalName>
 	</build>
 
 </project>
