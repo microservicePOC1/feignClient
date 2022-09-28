@@ -23,5 +23,5 @@ RUN mvn package -Dmaven.test.skip=true
 
 FROM openjdk:11-jdk
 COPY --from=0 /build/target/feignClientSampleService.jar /app/target/feignClientSampleService.jar
-EXPOSE 8080
+EXPOSE 9000
 ENTRYPOINT [ "java", "-jar", "/app/target/feignClientSampleService.jar"]
