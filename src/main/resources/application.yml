@@ -1,5 +1,5 @@
 spring:
   application:
-    name: sample1-service
+    name: fc-sample-service
   config:
-    import: "optional:configserver:http://localhost:8088"
+    import: "optional:configserver:https://config1-charles3.apps.qqd02ebq.usgovvirginia.aroapp.azure.us/"
