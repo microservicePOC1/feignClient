@@ -7,7 +7,7 @@
 		<version>2.6.1</version>
 		<relativePath />
 	</parent>
-	<artifactId>sample1-service</artifactId>
+	<artifactId>fc-sample-service</artifactId>
 	<groupId>com.co.services</groupId>
 	<version>1.2-SNAPSHOT</version>
 
