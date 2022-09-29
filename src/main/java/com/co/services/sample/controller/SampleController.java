@@ -12,7 +12,7 @@ public class SampleController {
 	
 	@GetMapping("/")
 	public String sampleApi() {
-		return "hello feign client"
+		return "hello feign client";
 		
 
 	}
