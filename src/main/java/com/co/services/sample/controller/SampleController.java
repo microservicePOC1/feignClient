@@ -33,7 +33,7 @@ public class SampleController {
 		Sample3Client sample3Client,
 		Sample4Client sample4Client,
 		Sample5Client sample5Client,
-		Sample6Client sample6Client
+		Sample6Client sample6Client,
 		Sample7Client sample7Client,
 		Sample8Client sample8Client,
 		Sample9Client sample9Client
