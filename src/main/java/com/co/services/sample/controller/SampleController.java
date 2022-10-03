@@ -63,7 +63,7 @@ public class SampleController {
 			);
 
 			String result = "";
-			for (int i = 0; i < 5; ++i) {
+			for (int i = 0; i < 8; ++i) {
 				result += (String)pResults.get(i) + "<br/>";
 			}
 			return result;
